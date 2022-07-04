@@ -55,6 +55,10 @@ h3 {
   background-position: left;
 }
 
+.experience-h1 {
+  text-align: center;
+}
+
 .experience-item {
   width: 40%;
   margin-left: 5%;
