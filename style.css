@@ -9,7 +9,7 @@ h1 {
   color: orange;
 }
 
-section {
+.flexable-content {
   display: flex;
 }
 .half-desc {
@@ -33,6 +33,7 @@ section {
 .first-banner {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+  margin-top: 15px;
 }
 
 .dream-big {
